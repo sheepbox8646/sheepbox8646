@@ -10,7 +10,7 @@ I am a middle school student from China, and I like **programming** and **open s
 * 👀 I am one of the founders of BugDuck open source team.
 * 💻 I started learning programming in 2020.
 
-[![sheepbox8646's github stats](https://github-readme-stats.vercel.app/api?username=sheepbox8646&show_icons=true&theme=dracula)](https://github.com/samzhangjy)
+[![sheepbox8646's github stats](https://github-readme-stats.vercel.app/api?username=sheepbox8646&show_icons=true&theme=dracula)](https://github.com/sheepbox8646)
 
 # My second identity
 
