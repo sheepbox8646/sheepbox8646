@@ -33,12 +33,12 @@ Fimtale:@acbox
 # My OC
 I am an unicorn from Equestria,I like the world created by love and friendship
 
-![My photo](./pony-town-Acbox-stand-blinking-4x.gif)
+![My photo](./pony-town-Acbox-stand-blinking-padded-4x.gif)
 
 I am a blue pony,and my cuty mark is a......is a program bug(🤣)(nop)
 
 My **cuty mark** is 0 and 1 if you look from right.If you look from left,you can see 1 and 0.No matter what direction you see,it's always be a bug.
 
-![Me](./me.png)
-![him and me](./together.png)
-(The pony who was at right is my boyfriend👀)
+![Me](./b8bff8907bf6839.png)
+![him and me](./-1da63f7904bbd344.png)
+(The pony who was at left is my boyfriend👀)
