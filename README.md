@@ -26,7 +26,7 @@ Youtube:@AcboxSky
 
 BiliBili:@Acbox
 
-Email:1.850625057@qq.com 2.acbox0328@gmail.com 3.acbox0410@outlook.com
+Email:1.<850625057@qq.com> 2.<acbox0328@gmail.com> 3.<acbox0410@outlook.com>
 
 Fimtale:@acbox
 
@@ -38,7 +38,3 @@ I am an unicorn from Equestria,I like the world created by love and friendship
 I am a blue pony,and my cuty mark is a......is a program bug(🤣)(nop)
 
 My **cuty mark** is 0 and 1 if you look from right.If you look from left,you can see 1 and 0.No matter what direction you see,it's always be a bug.
-
-![Me](./b8bff8907bf6839.png)
-![him and me](./-1da63f7904bbd344.png)
-(The pony who was at left is my boyfriend👀)
