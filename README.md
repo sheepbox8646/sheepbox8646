@@ -6,7 +6,7 @@ I am a senior high school student from China, and I like **programming** and **o
 
 # About me
 
-* 😀 I am 14 years old and I'll start my first year in senior high school.
+* 😀 I am 14 years old and I'm in my first year in senior high school.
 * 👀 I am one of the creator of BugDuck open source team.
 * 💻 I started learning programming in 2020.
 * 🐴 I will still be a brony forever.
