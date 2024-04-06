@@ -14,7 +14,7 @@ I am a senior high school student from China, and I like **programming** and **o
 [![sheepbox8646's github top language](https://github-readme-stats.vercel.app/api/top-langs/?username=sheepbox8646)](https://github.com/sheepbox8646)
 
 # The tech stacks I have
-![Tech Stacks](https://skillicons.dev/icons?i=nodejs,javascript,html,css,typescript,rust,electron,tailwind,unovue,nuxt,python,godot)
+![Tech Stacks](https://skillicons.dev/icons?i=nodejs,javascript,html,css,typescript,rust,electron,tailwind,unocss,nuxt,python,godot)
 
 # The tools I use
 ![Tools](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
