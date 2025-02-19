@@ -1,31 +1,23 @@
-Hi！I am Liu Chenyang(Acbox) 👋
+# 👋 Welcome to my GitHub profile!
 
-![Me](./pony-town-Acbox-stand-blinking-padded-4x.gif)
+你好呀，我是Acbox! 你也可以叫我小箱子哦！
 
-# Who?
+Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute (awa)
 
-A Droped out senior high school student and do open source as fulltime job. Dreaming to the freedom and lights.
+## 🤔 About me?
 
-# About me
+我是一个来自安徽六安，目前辍学自考A-level在深圳一个人生活的~~性别未知的~~生物! 目前已经把精力大部分放在了创业上，可以看一下我们的AI初创团队[@BijonAI](https://github.com/BijonAI)
 
-* 😀 I am 15 years old.
-* 👀 I am one of the creator of BugDuck open source team.
-* 💻 I started learning programming in 2020.
+I'm from Anhui, China, now dropout from school and living independently in Shenzhen (use 'she/her' as prounce will make me happy 🐱). I'm building a AI-tech company [@BijonAI](https://github.com/BijonAI)
 
-[![sheepbox8646's github stats](https://github-readme-stats.vercel.app/api?username=sheepbox8646&show_icons=true&theme=dracula)](https://github.com/sheepbox8646)
+目前主要还是做前端和AI应用，~~入门Rust8次均以失败告终~~， VueJs生态重度使用者，以后可能会进军Web3(
 
-# The Tech Stacks
-![Tech Stacks](https://skillicons.dev/icons?i=nodejs,javascript,html,css,typescript,rust,electron,tailwind,nuxt,python,godot)
+Currently building front-end and AI application, "VueJs Overdoser", Planning learn Web3.
 
-# The Tools I Use
-![Tools](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
+## ✈ Out of Code
 
-# How to link me?
+🥁架子鼓一生推，会即兴，能国摇但还是喜欢日摇或者Vocaloid（
 
-Twitter:@AcboxLiu
+🚆🚇是交通迷，MTR一生推(
 
-BiliBili:@Acbox
-
-QQ: 850625057
-
-Personal Website: [acbox.lol](https://acbox.lol)
+🧤 MaimaiDX！
