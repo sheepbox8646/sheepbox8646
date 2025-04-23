@@ -6,13 +6,26 @@ Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute 
 
 ## 🤔 About me?
 
-我是一个来自安徽六安，目前辍学自考A-level在深圳一个人生活的~~性别未知的~~生物! 目前已经把精力大部分放在了创业上，可以看一下我们的AI初创团队[@BijonAI](https://github.com/BijonAI)
+09年深漂，目前辍学自考A-level&IELTS, 在深圳一个人生活, ~~性别未知~~, 目前已经把精力大部分放在了创业上，可以看一下我们的AI初创团队[@BijonAI](https://github.com/BijonAI)
 
 I'm from Anhui, China, now dropout from school and living independently in Shenzhen (use 'she/her' as prounce will make me happy 🐱). I'm building a AI-tech company [@BijonAI](https://github.com/BijonAI)
 
-目前主要还是做前端和AI应用，~~入门Rust8次均以失败告终~~， VueJs生态重度使用者，以后可能会进军Web3(
+## ⚙️ Tech Stack
 
-Currently building front-end and AI application, "VueJs Overdoser", Planning learn Web3.
+### Lang&Framework
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,latex,css,tailwind,react,vue,nextjs,nuxtjs,nodejs,d3,astro,bun,deno,electron,flutter,express,fastapi,flask,py,rust)](https://skillicons.dev)
+
+### Operating System
+[![My Skills](https://skillicons.dev/icons?i=apple,arch,linux)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,npm,pnpm,vite,vitest)](https://skillicons.dev)
+
+### Services
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,cloudflare,netlify)](https://skillicons.dev)
+
+### Platform
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,github,gmail,stackoverflow,twitter)](https://skillicons.dev)
 
 ## ✈ Out of Code
 
