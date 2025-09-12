@@ -6,7 +6,9 @@ Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute 
 
 ## 🤔 About me?
 
-Base 深圳，在当苦逼社畜
+Base 深圳，性别是猫猫，日常远程工作，精神状态可能会不太好
+
+Base in Shenzhen, transcat, working remote.
 
 ## ⚙️ Tech Stack
 
@@ -33,8 +35,7 @@ Base 深圳，在当苦逼社畜
 
 ## ✈ Out of Code
 
-🥁架子鼓一生推，会即兴，能国摇但还是喜欢日摇或者Vocaloid（
-
-🚆🚇是交通迷，MTR一生推(
-
-🧤 MaimaiDX！
+- 🏳️‍⚧️ Transgirl
+- 🚆🚇 交通迷
+- 🧤 MaimaiDX！
+- 💳 卡粉
