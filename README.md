@@ -6,9 +6,7 @@ Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute 
 
 ## 🤔 About me?
 
-09年深漂，目前辍学自考A-level&IELTS, 在深圳一个人生活, ~~性别未知~~, 可以看一下我们的Startup[@BijonAI](https://github.com/BijonAI)
-
-I'm from Anhui, China, now dropout from school and living independently in Shenzhen (use 'she/her' as prounce will make me happy 🐱). I'm building a AI-tech company [@BijonAI](https://github.com/BijonAI)
+Base 深圳，在当苦逼社畜
 
 ## ⚙️ Tech Stack
 
