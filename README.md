@@ -35,7 +35,6 @@ Base in Shenzhen, transcat, working remote.
 
 ## ✈ Out of Code
 
-- 🏳️‍⚧️ Transgirl
 - 🚆🚇 交通迷
 - 🧤 MaimaiDX！
 - 💳 卡粉
