@@ -2,11 +2,20 @@
 
 Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute (awa)
 
-## 🤔 About me?
+<a href="#stats" align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=sheepbox8646&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sheepbox8646&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=sheepbox8646&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+  </picture>
+</a>
 
-Base 深圳，性别是猫猫，日常远程工作，精神状态可能会不太好
-
-Base in Shenzhen, transcat, working remote
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,go,python,react,vue,vite,nextjs,nuxtjs,nodejs,bun,deno,electron,elysia)](https://skillicons.dev)
