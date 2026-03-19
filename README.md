@@ -23,6 +23,35 @@ Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute 
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+📅 **星期六 时的我最有干劲** 
+
+```text
+星期一                      3876 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+星期二                      2770 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+星期三                      3578 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+星期四                      3585 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+星期五                      2874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+星期六                      5531 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+星期日                      3902 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+本周没有记录到任何活动
+
+🐱‍💻 项目: 
+本周没有记录到任何活动
+```
+
+
+ Last Updated on 19/03/2026 08:05:37 UTC
 <!--END_SECTION:waka-->
 
 ## ✈ Out of Code
