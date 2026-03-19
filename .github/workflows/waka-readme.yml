@@ -28,4 +28,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
-          LOCALE: "zh_CN"
+          LOCALE: "zh"
