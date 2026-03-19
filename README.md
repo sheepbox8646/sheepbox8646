@@ -20,6 +20,11 @@ Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,go,python,react,vue,vite,nextjs,nuxtjs,nodejs,bun,deno,electron,elysia)](https://skillicons.dev)
 
+## 📊 Dev Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ✈ Out of Code
 
 - 🚆🚇 交通迷
