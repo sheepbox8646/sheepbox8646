@@ -20,18 +20,6 @@ Hi. I'm Acbox (uwu)! You can also call me "Acboxiiiy"! Awww the name is so cute 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,go,python,react,vue,vite,nextjs,nuxtjs,nodejs,bun,deno,electron,elysia)](https://skillicons.dev)
 
-## 📊 My Side Projects
-
-| Name | Description | Stars |
-| ---- | ----------- | ----- |
-| [Memoh](https://github.com/memohai/Memoh) | Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨ | ![stars](https://img.shields.io/github/stars/memohai/Memoh?style=flat-square) |
-| [twilight-ai](https://github.com/memohai/twilight-ai) | 🌅 A lightweight, idiomatic AI SDK for Go | ![stars](https://img.shields.io/github/stars/memohai/twilight-ai?style=flat-square) |
-| [ChatTutor](https://github.com/HugeCatLab/ChatTutor) | 👨‍🏫 Visual and Interactive AI Tutor | ![stars](https://img.shields.io/github/stars/HugeCatLab/ChatTutor?style=flat-square) |
-| [xsai](https://github.com/moeru-ai/xsai) | 🤖💬 Extra-small AI SDK | ![stars](https://img.shields.io/github/stars/moeru-ai/xsai?style=flat-square) |
-| [newcar](https://github.com/dromara/newcar) | 🖌️ Modern JavaScript Canvas Library | ![stars](https://img.shields.io/github/stars/dromara/newcar?style=flat-square) |
-| [VueMotion](https://github.com/Bug-Duck/vuemotion) | 🎬 Next-generation animation engine for Vue ecosystem | ![stars](https://img.shields.io/github/stars/Bug-Duck/vuemotion?style=flat-square) |
-| [ChalkAI](https://github.com/bijonai/ChalkAI) | ✏️ AI-powered interactive lesson generator | ![stars](https://img.shields.io/github/stars/bijonai/ChalkAI?style=flat-square) |
-
 ## ✈ Out of Code
 
 - 🚆🚇 交通迷
